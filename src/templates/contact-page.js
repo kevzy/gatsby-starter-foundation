@@ -1,10 +1,16 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { graphql } from "gatsby"
-import { RiSendPlane2Line } from "react-icons/ri"
+
+import {
+  RiFacebookBoxFill,
+  RiInstagramFill,
+  RiWhatsappFill,
+} from "react-icons/ri"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Icons from "../util/socialmedia.json"
 
 export const pageQuery = graphql`
   query ContactQuery($id: String!) {
@@ -27,7 +33,34 @@ export const pageQuery = graphql`
 const Contact = ({ data }) => {
   const { markdownRemark, site } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-
+  
+  const sIcons = Icons.socialIcons.map((icons, index) => {
+    return (
+      <div key={"social icons" + index}>
+        {icons.icon === "facebook" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
+            <RiFacebookBoxFill alt="Facebook icon"/>
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "instagram" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Instagram" rel="noopener noreferrer">
+            <RiInstagramFill alt="Instagram icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "whatsapp" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
+            <RiWhatsappFill alt="Dribbble icon" />
+          </a>
+        ) : (
+          ""
+        )}
+      </div>
+    )
+  })
   return (
     <Layout className="contact-page" sx={contactStyles.contactPage}>
       <Seo
