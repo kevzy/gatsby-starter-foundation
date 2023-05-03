@@ -4,7 +4,7 @@ import { useColorMode } from "theme-ui"
 import { FiMoon, FiSun } from "react-icons/fi"
 
 const Theme = () => {
-  const [colorMode, setColorMode] = useColorMode()
+  const [colorMode, setColorMode] = useColorMode("default")
   return (
     <div sx={themeStyles.modeOption}>
       <button
