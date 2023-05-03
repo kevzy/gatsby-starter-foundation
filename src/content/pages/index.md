@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Jambo From
 tagline: Wildlife Safaris
-featuredImage: /assets/mara.avif
+featuredImage: /assets/
 cta:
   ctaText: Know more
   ctaLink: /about
