@@ -106,18 +106,6 @@ const Contact = ({ data }) => {
             </label>
           </p>
           <p className="text-align-right">
-            <button
-              className="button"
-              sx={{
-                variant: "variants.button",
-              }}
-              type="submit"
-            >
-              Send Message{" "}
-              <span className="icon -right">
-                <RiSendPlane2Line />
-              </span>
-            </button>
           </p>
         </form>
       </div>
