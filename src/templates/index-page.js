@@ -15,7 +15,7 @@ import {
   RiPinterestFill,
   RiSnapchatFill,
   RiSkypeFill,
-  RiDribbbleFill,
+  RiWhatsappFill,
   RiMediumFill,
   RiBehanceFill,
 } from "react-icons/ri"
@@ -172,7 +172,7 @@ const HomePage = ({ data }) => {
         )}
         {icons.icon === "whatsapp" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
-            <RiDribbbleFill alt="Dribbble icon" />
+            <RiWhatsappFill alt="Dribbble icon" />
           </a>
         ) : (
           ""
