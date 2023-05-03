@@ -170,7 +170,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "dribbble" ? (
+        {icons.icon === "whatsapp" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />
           </a>
