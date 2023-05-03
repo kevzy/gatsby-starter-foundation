@@ -1,9 +1,10 @@
+/** @jsx jsx */
 import { jsx } from "theme-ui"
 import { useColorMode } from "theme-ui"
 import { FiMoon, FiSun } from "react-icons/fi"
 
 const Theme = () => {
-  const [colorMode, setColorMode] = useColorMode("default") // Set initial color mode to "default"
+  const [colorMode, setColorMode] = useColorMode()
   return (
     <div sx={themeStyles.modeOption}>
       <button
@@ -21,7 +22,6 @@ const Theme = () => {
     </div>
   )
 }
-
 export default Theme
 
 const themeStyles = {
