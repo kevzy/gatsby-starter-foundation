@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Jambo From
-tagline: Wildlife Safaris
+tagline: Africa Magical Tour
 featuredImage: /assets/mara.jpeg
 cta:
   ctaText: Know more
