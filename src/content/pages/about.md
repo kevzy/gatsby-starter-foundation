@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Africa Magical Tour
+title: Hasha T&T Consultants 
 ---
 Welcome to Africa Magical Tour, your gateway to the natural wonders of Kenya! We are a passionate team of wildlife enthusiasts and experienced tour guides who are dedicated to creating unforgettable safari experiences for our guests.
 
