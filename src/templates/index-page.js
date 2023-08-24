@@ -140,17 +140,7 @@ const HomePage = ({ data }) => {
             {sIcons}
           </div>
         </div>
-        <div>
-          {Image ? (
-            <GatsbyImage
-              image={Image}
-              alt={frontmatter.title + " - Featured image"}
-              className="featured-image"
-            />
-          ) : (
-            ""
-          )}
-        </div>
+        
       </div>
       <BlogListHome data={posts} />
     </Layout>
