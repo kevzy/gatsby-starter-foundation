@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Hello From
 tagline: Hasha T&T Consultants
-featuredImage: /assets/mara.jpeg
+featuredImage: /assets/7.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
