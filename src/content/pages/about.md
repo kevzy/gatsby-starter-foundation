@@ -9,4 +9,4 @@ Embark on a journey of global education and career growth with our expert guidan
 
 Find our consultancy in the heart of Nairobi CBD. Located on the 4th floor of Sanlam House, Kenyatta Avenue, our central and accessible office is ready to support your journey.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d63159.11210759416!2d36.83317763029739!3d-1.3034481422537973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ske!4v1692943489522!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.815906700383!2d36.819589575059304!3d-1.2843803356242165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10d65f5df39d%3A0x93c7656f3e344c6e!2sSanlam%20House!5e0!3m2!1sen!2ske!4v1692961896446!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
