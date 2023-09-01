@@ -8,6 +8,16 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Elevate your global education and career goals with our specialized guidance. We assist outstanding graduates and ambitious professionals in navigating visas, immigration, travel, ensuring a successful journey to your chosen destination. Trust our dedicated support. 
+Elevate Your Dreams
+
+Unlock global opportunities with ***Hasha T&T Consultants**!*
+
+Specialized guidance for graduates and professionals. Navigate visas, immigration, and travel effortlessly. Trust our dedicated support.
+
+We've mastered embassy and consulate dynamics.
+
+Your dreams, our expertise. Let's make it happen.
+
+Hasha T&T Consultants - Your Journey, Our Passion.
 
 **Hasha T & T is there for you.**
