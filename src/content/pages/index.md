@@ -18,6 +18,6 @@ We've mastered embassy and consulate dynamics.
 
 Your dreams, our expertise. Let's make it happen.
 
-Hasha T&T Consultants - Your Journey, Our Passion.
+***Hasha T&T Consultants*** - Your Journey, Our Passion.
 
 **Hasha T & T is there for you.**
