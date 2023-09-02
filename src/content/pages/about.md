@@ -7,11 +7,9 @@ Welcome to <span style="color: #0000FF;">Hasha T&T Consultants</span>, your trus
 
 **What Sets Us Apart:**
 
-* **Expertise:** At <span style="color: #0000FF;">Hasha T&T Consultants</span>, our team consists of seasoned Travel Experts with experience in the industry. We specialize in offering guidance and assistance for a wide range of visa types, ensuring that you have the knowledge and support you need to navigate the visa application process successfully.
+* **Expertise:** At <span style="color: #0000FF;">Hasha T&T Consultants</span>, our team consists of seasoned Travel Experts with i﻿ntricate knowledge in the industry. We specialize in offering guidance and assistance for a wide range of visa types, ensuring that you have the knowledge and support you need to navigate the visa application process successfully.
 * **Comprehensive Advice:** We provide advice on all types of visas, including those for work, study, tourism, and more. Our goal is to empower you with the information and expertise required to make informed decisions about your travel plans.
 * **Independence:** It's important to note that <span style="color: #0000FF;">Hasha T&T Consultants</span> does not work, represent, or act on behalf of the Government of Kenya, any embassy, or consulate. We maintain our independence and focus on providing impartial guidance to our clients.
-
-
 
 Your journey to international destinations starts with <span style="color: #0000FF;">Hasha T&T Consultants</span>. Whether you're looking to explore new horizons, pursue educational opportunities, or experience diverse cultures, we're here to assist you every step of the way.
 
