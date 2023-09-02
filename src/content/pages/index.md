@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Hello From
-tagline: Hasha T&T Consultants
+tagline: "***Hasha T&T Consultants***"
 featuredImage: /assets/7.jpg
 cta:
   ctaText: Know more
@@ -18,7 +18,9 @@ Unlock global opportunities with ***Hasha T&T Consultants***!
 
 ***Hasha T&T Consultants*** does not work, represent, or act on behalf of the Government of Kenya, any embassy, or consulate.
 
-We've mastered embassy and consulate dynamics.
+We  embassy and consulate dynamics
+
+w﻿e are knowledgeable in embassy and consulate affairs.
 
 Your dreams, our expertise. Let's make it happen.
 
