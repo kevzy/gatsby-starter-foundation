@@ -14,6 +14,7 @@ export default function BlogListHome(props) {
 }
 
 const PostMaker = ({ data }) => (
+  
   <section className="home-posts">
     <h2>
       Latest in <strong>Blog</strong>{" "}
